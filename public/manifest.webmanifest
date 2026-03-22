@@ -1,0 +1,22 @@
+{
+  "name": "Sum Numbers",
+  "short_name": "SumNumbers",
+  "description": "Solve grid sum puzzles by keeping or erasing numbers.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/Sum-Numbers-Logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Sum-Numbers-Logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
